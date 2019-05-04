@@ -3,6 +3,8 @@
  * See COPYING.txt for license details.
  */
 namespace Learning\HelloPage\Controller\Page;
+
+
 class View extends \Magento\Framework\App\Action\Action
 {
     /**
